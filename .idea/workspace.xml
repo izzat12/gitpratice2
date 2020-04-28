@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="169a2084-2ded-4e36-b232-5d8d44f67bb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pratice/java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring2020B17_Java" />
   </component>
   <component name="RunManager">
     <configuration name="java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -66,10 +65,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2609" y="200" key="FileChooserDialogImpl" timestamp="1587756778880">
+    <state x="2609" y="200" key="FileChooserDialogImpl" timestamp="1587995765286">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2609" y="200" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587756778880" />
+    <state x="2609" y="200" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587995765286" />
+    <state width="1863" height="267" key="GridCell.Tab.0.bottom" timestamp="1587995771229">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1863" height="267" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587995771229" />
+    <state width="1863" height="267" key="GridCell.Tab.0.center" timestamp="1587995771229">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1863" height="267" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587995771229" />
+    <state width="1863" height="267" key="GridCell.Tab.0.left" timestamp="1587995771229">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1863" height="267" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587995771229" />
+    <state width="1863" height="267" key="GridCell.Tab.0.right" timestamp="1587995771229">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1863" height="267" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587995771229" />
     <state x="2459" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1587756776397">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
